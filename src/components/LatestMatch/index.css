@@ -1,0 +1,25 @@
+/* Write your CSS here */
+.latest-match-container {
+  width: 100%;
+  background-color: #0f172a;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Roboto';
+  color: white;
+  padding: 10px;
+}
+.competing-logo {
+  width: 200px;
+}
+.heading {
+  font-size: 20px;
+}
+.content {
+  content: 16px;
+}
+.innings{
+  text-align: end;
+}

@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.list-item {
+  display: flex;
+  align-items: center;
+  border: 2px solid #475569;
+  border-radius: 5px;
+  width: 40%;
+  height: 150px;
+  padding: 20px;
+  margin: 5px;
+  font-family: "Roboto";
+  color: white;
+}
+.team-image {
+  width: 100px;
+}
